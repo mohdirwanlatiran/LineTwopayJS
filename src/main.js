@@ -3,9 +3,9 @@ const { Message, OpType, Location } = require('../curve-thrift/line_types');
 let exec = require('child_process').exec;
 
 //TOLONG GANTI SEMUA SEPERTI LOCKUPDATEGROUP TAPI MSG SERTA UNMUTE/MUTE JAN LU OTAK ATIK BEGO~//
-var myBott = ['u8b2bb5214c1afc77d06901a535c23e30'];//TARO MID LU DISINI SUPAYA BISA PKE COMMAND STAFF
+var myBott = ['ub2d86b0a2f11d44df5b61e5211389041','u6697e3ffeaa87db0c9ef59b3f24b6cc6'];//TAMID LU DISINI SUPAYA BISA PKE COMMAND STAFF
 
-const myBot = ['u8b2bb5214c1afc77d06901a535c23e30'];//TARO MID LU DISINI
+const myBot = ['ub2d86b0a2f11d44df5b61e5211389041','u6697e3ffeaa87db0c9ef59b3f24b6cc6'];//TARO MID LU DISINI
 var vx = {};var midnornama = "";var pesane = "";var kickhim = "";var waitMsg = "no";//DO NOT CHANGE THIS
 
 function isAdminOrBot(param) {
